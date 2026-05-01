@@ -3,14 +3,16 @@
 <h3 align="center">professionnal Bullshitter | Privacy-focused Manifestos </h3>
 
 <p align="justify">
-  <a href="https://404loopback.github.io/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
   <a href="mailto:404@4048404.online"><img src="https://github.com/404loopback/404loopback/blob/main/content/adobe_getas2.gif"/></a>
   <a href="https://hub.docker.com/u/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="https://www.youtube.com/c/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/discord-no-way.gif" alt="discord privacy"/></a>
   <a href="https://twitter.com/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+ 
 </p>
 ## Hello World
 

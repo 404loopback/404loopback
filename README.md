@@ -1,4 +1,4 @@
-[Peek 2020-07-09 15-53](https://github.com/404loopback/404loopback/blob/614e10120fe3e4a96819a476b1cc6dc9fc0962fe/resources/webcore.png)
+[x](https://github.com/404loopback/404loopback/blob/c21f684ee0b98f4458547f5dd91aadaa9671b7fe/content/webcore.png)
   
 <h3 align="center"> Professionnal Bullshitter | Privacy-focused Manifestos </h3>
 

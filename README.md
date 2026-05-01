@@ -23,7 +23,7 @@
 ## Links
 
 <p align="center">
-  <a href="[https://blog.mphomphego.co.za/](https://404loopback.github.io/)"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://404loopback.github.io/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:404@4048404.online"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
   <a href="https://hub.docker.com/u/404"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
   <a href="https://www.youtube.com/c/404"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>

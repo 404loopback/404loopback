@@ -14,7 +14,7 @@
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#]()
+- [Discord Surveillance (FR)](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

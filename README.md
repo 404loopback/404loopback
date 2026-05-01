@@ -1,4 +1,4 @@
-[webcore](/content/webcore.png)
+![webcore](/content/webcore.png)
   
 <h3 align="center">professionnal Bullshitter | Privacy-focused Manifestos </h3>
 

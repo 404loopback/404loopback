@@ -1,7 +1,5 @@
 ![webcore](/content/webcore.png)
   
-<h3 align="center">Professionnal Bullshitter | Privacy-focused Manifestos </h3>
-
 <p align="justify">
   <a href="mailto:404@4048404.online"><img src="https://github.com/404loopback/404loopback/blob/main/content/adobe_getas2.gif"/></a>
   <a href="https://hub.docker.com/u/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
@@ -27,14 +25,20 @@
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
 </p>
 
-##Hello World
+<h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3><p
 
-🎓 &nbsp;I'm currently (and always) working random obscure projects.\
-🌱 &nbsp;I don't like Ops shit or even dev, I'm not even sure I like IT to be fair.\
-✍️ &nbsp;In my free time, I enjoy doing absolutely nothing, I have no free time.\
-✉️ &nbsp;You can bother me at 404@4048404.online with your complaints or request, be assured I won't read anything, ever.\
-📄 &nbsp;I like trains.\
-📄 &nbsp;I don't like my privacy being violated.\
+<h3 align="center">Professionnal Bullshitter | Privacy-Focused </h3>
+
+
+
+► STATUS REPORT
+
+> 🎓  Currently executing obscure.projects() in background loops
+> ⚙️   Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
+> ✍️   Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
+> 📧  Contact: 404@4048404.online (will not read anything, ever)
+> 🚂  Transport protocol: TRAINS_ONLY
+> 🔒  Privacy violation status: CRITICAL_ALERT | Manifestos deployed
 
 
 ## Latest blog posts
@@ -44,6 +48,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+
+███████╗ ██████╗ ██╗  ██╗    ██╗      ██████╗  ██████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
+██╔════╝██╔═████╗██║  ██║    ██║     ██╔═══██╗██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
+█████╗  ██║██╔██║███████║    ██║     ██║   ██║██║   ██║██████╔╝██████╔╝███████║██║     █████╔╝ 
+██╔══╝  ████╔╝██║╚════██║    ██║     ██║   ██║██║   ██║██╔═══╝ ██╔══██╗██╔══██║██║     ██╔═██╗ 
+███████╗╚██╔▀▀██╗     ██║    ███████╗╚██████╔╝╚██████╔╝██║     ██████╔╝██║  ██║╚██████╗██║  ██╗
+╚══════╝ ╚═╝  ╚═╝     ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 
 ## Links
 

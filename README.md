@@ -52,22 +52,10 @@ ___________________________________________________________________________/\/\_
 <h3 align="center">Professionnal Bullshitter | Digital Consciousness</h3>
 
 ---
-
-## ► WHOAMI_
-```md
-# philosophy.md
-
-> Internet should be free for all.
-> Beautiful code is fine, but *privacy is essential*.
-> Right-to-repair = right-to-think freely.
-> Right-to-repair isn't a luxury; it's freedom.
-
-*Debian patriot ; GrapheneOS advocate.*
-*Open source or nothing.*
+```console
+$ whoami
+404loopback
 ```
-
-
-
 ## ► PHILOSOPHY_
 ```console
 $ cat philosophy.md

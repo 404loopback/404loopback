@@ -74,7 +74,7 @@ FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 ## ► PROJECTS_
 <p align="justify">
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-<a href="x><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
 </p>
 
 

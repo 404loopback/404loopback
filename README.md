@@ -56,6 +56,16 @@ ___________________________________________________________________________/\/\_
 $ whoami
 Inadvertance/404loopback
 ```
+```bash
+$ cat ~/.profile
+
+#  obscure.projects --loop
+#  Dev/Ops ≠ passion 
+#  Free time activity: ENOENT
+#  Contact: 404@4048404.online (will not read anything, ever)
+#  I like trains
+#  I don't like my privacy to be violated
+```
 ## ► PHILOSOPHY_
 ```console
 $ cat philosophy.md
@@ -90,18 +100,6 @@ $ git apply values.patch --check
 - [ AVOID ] MICROSOFT.
 ```
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
-
-## ► STATUS REPORT_
-```bash
-$ cat ~/.profile
-
-#  obscure.projects --loop
-#  Dev/Ops ≠ passion 
-#  Free time activity: ENOENT
-#  Contact: 404@4048404.online (will not read anything, ever)
-#  I like trains
-#  I don't like my privacy to be violated
-```
 
 ## ► LATEST POSTS_
 

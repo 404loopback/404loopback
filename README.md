@@ -33,7 +33,7 @@
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
 </p>
 
-<h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3><p
+<h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3>
 
 <h3 align="center">Professionnal Bullshitter | Privacy-Focused </h3>
 
@@ -88,7 +88,7 @@ FUCK WEB3.
 </p>
 
 <div align="center">
-═══════════════════════════════════════════════════════════════════
-               OFFLINE ● | 127.0.0.1 | STATUS: 404
-═══════════════════════════════════════════════════════════════════
+══════════════════════════════════════════════════════════
+          OFFLINE ● | 127.0.0.1 | STATUS: 404
+══════════════════════════════════════════════════════════
 </div>

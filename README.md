@@ -69,13 +69,14 @@ FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
 ## ► STATUS REPORT_
-```
-> 🎓  Currently executing obscure.projects() in background loops
-> ⚙️  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
-> ✍️  Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
-> 📧  Contact: 404@4048404.online (will not read anything, ever)
-> 🚂  I like trains
-> 🔒  I don't like my privacy to be violated
+```bash
+$ whoami
+# > 🎓  Currently executing obscure.projects() in background loops
+# > ⚙️  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
+# > ✍️  Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
+# > 📧  Contact: 404@4048404.online (will not read anything, ever)
+# > 🚂  I like trains
+# > 🔒  I don't like my privacy to be violated
 ```
 
 ## ► LATEST TRANSMISSIONS_

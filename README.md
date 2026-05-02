@@ -69,12 +69,18 @@ ___________________________________________________________________________/\/\_
 ```
 
 ```diff
-- [ AVOID ] DISCORD.  /  [ AVOID ] FACEBOOK.  /  [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
-- [ AVOID ] GOOGLE.  / [ AVOID ] AMAZON.  / [ AVOID ] MICROSOFT.
+- [ AVOID ] DISCORD.
+- [ AVOID ] FACEBOOK.
+- [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
+- [ AVOID ] GOOGLE.
+- [ AVOID ] AMAZON.
+- [ AVOID ] MICROSOFT.
 ```
 ```diff
-+ [ USE ] MASTODON  / [ USE ] MATRIX  / [ USE ] STOAT  / 
-+ [ USE ] DUCKDUCKGO  /  [ HELP ] YOUR LOCAL DATA BROCKER
++ [ USE ] MASTODON / MATRIX / STOAT
++ [ USE ] DUCKDUCKGO / QWANT / SEARX-SEARXNG
++ [ LOCAL HOST ] EVERYTHING
++ [ SUPPORT ] YOUR LOCAL DATA BROCKER
 ```
 
 ```diff

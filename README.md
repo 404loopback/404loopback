@@ -4,6 +4,7 @@
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/kiwix.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tor.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/xampp.gif"/></a>
   <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/ldp-link.gif"/></a>
   <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/msfrontpage2000.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/mymusic.gif"/></a>

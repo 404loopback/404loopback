@@ -24,7 +24,7 @@
   <a href="https://github.com/grapheneos"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
   <a href="https://duckduckgo.com/?q=!ducky+youtube+synthwave+2+hours"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
   <a href="https://repair.eu/"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/hatems.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
   <a href="https://www.win-rar.com/start.html?&L=10"><img src="https://github.com/404loopback/404loopback/blob/main/content/rar_whit_move.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/masto.gif"/></a>
   <a href="https://secure.freetibet.org/donate-free-tibet"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
@@ -113,12 +113,10 @@ ERROR ● | 127.0.0.1 | STATUS: 404<br/>
 
 <p align="justify">
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tiredalien2.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/freepalestine.gif"/></a>
 <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.png"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tiredalien2.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/acab2.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/antinazi.gif"/></a>
 </p>

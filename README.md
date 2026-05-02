@@ -54,12 +54,13 @@ ___________________________________________________________________________/\/\_
 
 ## ► PHILOSOPHY_
 ```bash
-$ cat -f philsophy.md
-> Internet should be free for all. Stop online 
-> Beautiful code is fine but PRIVACY IS ESSENTIAL
-> Right-to-repair = Right-to-think freely. Right-to-repair isn't a luxury ; it's freedom.
-> Debian patriot ; GrapheneOS advocate
-> Open source or nothing
+printf "%s\n" \
+  "Internet should be free for all." \
+  "Beautiful code is fine, but PRIVACY IS ESSENTIAL." \
+  "Right-to-repair = right-to-think freely." \
+  "Right-to-repair isn't a luxury; it's freedom." \
+  "Debian patriot ; GrapheneOS advocate." \
+  "Open source or nothing."
 ```
 
 ```diff

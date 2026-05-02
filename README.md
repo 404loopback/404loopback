@@ -69,11 +69,11 @@ ___________________________________________________________________________/\/\_
 ```
 
 ```diff
-@@ embargo.md @@
 - [ AVOID ] DISCORD.  /  [ AVOID ] FACEBOOK.  /  [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
-+ [ USE ] MASTODON  / [ USE ] MATRIX  / [ USE ] STOAT  / 
-
 - [ AVOID ] GOOGLE.  / [ AVOID ] AMAZON.  / [ AVOID ] MICROSOFT.
+```
+```diff
++ [ USE ] MASTODON  / [ USE ] MATRIX  / [ USE ] STOAT  / 
 + [ USE ] DUCKDUCKGO  /  [ HELP ] YOUR LOCAL DATA BROCKER
 ```
 

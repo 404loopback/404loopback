@@ -30,32 +30,45 @@
 <h3 align="center">Professionnal Bullshitter | Privacy-Focused </h3>
 
 
+► PHILOSOPHY
+```
+> Internet should be free for all. Stop online 
+> Beautiful code is fine but PRIVACY IS ESSENTIAL
+> Right-to-repair = Right-to-think freely. Right-to-repair isn't a luxury ; it's freedom.
+> Debian patriot ; GrapheneOS advocate
+> Open source or nothing
+
+AVOID DISCORD.
+AVOID GOOGLE.
+AVOID MICROSOFT.
+AVOID FACEBOOK
+AVOID AMAZON.
+AVOID NEW-GEN SOCIAL PLATFORMS.
+FUCK PALANTIR.
+FUCK CLEARVIEW.
+FUCK WEB3.
+
+<h3> RECLAIM YOUR DATAS. </h3>
+```
 
 ► STATUS REPORT
 ```
 > 🎓  Currently executing obscure.projects() in background loops
-> ⚙️   Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
-> ✍️   Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
+> ⚙️  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
+> ✍️  Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
 > 📧  Contact: 404@4048404.online (will not read anything, ever)
-> 🚂  Transport protocol: TRAINS_ONLY
-> 🔒  Privacy violation status: CRITICAL_ALERT | Manifestos deployed
+> 🚂  I like trains
+> 🔒  I don't like my privacy to be violated
 ```
 
-## Latest blog posts
-
+► LATEST TRANSMISSIONS
+```
 <!-- BLOG-POST-LIST:START -->
-- [Discord Surveillance (FR)](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
+> [04/2026] [Discord Surveillance (FR)](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
 <!-- BLOG-POST-LIST:END -->
-
+```
 ---
 
-
-███████╗ ██████╗ ██╗  ██╗    ██╗      ██████╗  ██████╗ ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗
-██╔════╝██╔═████╗██║  ██║    ██║     ██╔═══██╗██╔═══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
-█████╗  ██║██╔██║███████║    ██║     ██║   ██║██║   ██║██████╔╝██████╔╝███████║██║     █████╔╝ 
-██╔══╝  ████╔╝██║╚════██║    ██║     ██║   ██║██║   ██║██╔═══╝ ██╔══██╗██╔══██║██║     ██╔═██╗ 
-███████╗╚██╔▀▀██╗     ██║    ███████╗╚██████╔╝╚██████╔╝██║     ██████╔╝██║  ██║╚██████╗██║  ██╗
-╚══════╝ ╚═╝  ╚═╝     ╚═╝    ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 
 ## Links
 
@@ -67,4 +80,9 @@
   <a href="https://twitter.com/404"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="x"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
 </p>
--->
+
+<div align="center">
+═══════════════════════════════════════════════════════════════════
+               OFFLINE ● | 127.0.0.1 | STATUS: 404
+═══════════════════════════════════════════════════════════════════
+</div>

@@ -47,11 +47,10 @@ ___________________________________________________________________________/\/\_
 </h4 align="center">
 
 
-<h3 align="center">▓▒░ 404LOOPBACK ░▒▓</h3>
-
-<h3 align="center">Professionnal Bullshitter | Digital Consciousness</h3>
+<h3 align="center">▓▒░ Professionnal Bullshitter | Digital Consciousness ░▒▓</h3>
 
 ---
+
 ```console
 $ whoami
 Inadvertance/404loopback

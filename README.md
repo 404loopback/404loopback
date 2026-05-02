@@ -68,26 +68,21 @@ ___________________________________________________________________________/\/\_
 - Closed-source black boxes.
 ```
 
-```console
-$ ./philosophy.exe --unsafe
-[ FUCK ] PALANTIR.
-[ FUCK ] CLEARVIEW.
-[ FUCK ] WEB3.
-
-[ AVOID ] DISCORD.
-[ AVOID ] FACEBOOK.
-[ AVOID ] NEW-GEN SOCIAL PLATFORMS.
-[ AVOID ] GOOGLE.
-[ AVOID ] AMAZON.
-[ AVOID ] MICROSOFT.
+```diff
+@@ embargo.md @@
+- [ AVOID ] DISCORD.
+- [ AVOID ] FACEBOOK.
+- [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
+- [ AVOID ] GOOGLE.
+- [ AVOID ] AMAZON.
+- [ AVOID ] MICROSOFT.
 ```
 
-
-```console
-$ ./README.exe --unsafe
-[ OK ] mounting links
-[ OK ] starting music daemon
-[FAIL] sanity check
+```diff
+@@ fuckem.md @@
+- [ FUCK ] PALANTIR.
+- [ FUCK ] CLEARVIEW.
+- [ FUCK ] WEB3.
 ```
 
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>

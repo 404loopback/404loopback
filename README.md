@@ -54,7 +54,7 @@ ___________________________________________________________________________/\/\_
 
 ```console
 $ whoami
-Inadvertance/404loopback
+Inadvertance/404labs
 ```
 ```bash
 $ cat ~/.profile

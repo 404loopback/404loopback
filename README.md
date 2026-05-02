@@ -117,7 +117,6 @@ $ whoami
 
 
 ## ► LINKS_
-
 <p align="center">
   <a href="https://404loopback.github.io/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:404@4048404.online"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
@@ -130,14 +129,6 @@ $ whoami
 
 <h3 align="center">
 ═══════════════════════════════════════════════════════════════<br/>
-OFFLINE ● | 127.0.0.1 | STATUS: 404<br/>
+ERROR ● | 127.0.0.1 | STATUS: 404<br/>
 ═══════════════════════════════════════════════════════════════
 </h3>
-
-
-```diff
-+ initializing profile
-+ loading useful links
-- removing boring content
-! warning: user entered cursed zone
-```

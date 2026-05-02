@@ -32,7 +32,15 @@
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
   </p>
-
+  
+<p align="center">
+   .::            .::  :::         ...         ...   ::::::::::.:::::::.    :::.       .,-:::::  :::  .   
+ ,;';;   ,;;,   ,;';;  ;;;      .;;;;;;;.   .;;;;;;;. `;;;```.;;;;;;'';;'   ;;`;;    ,;;;'````'  ;;; .;;,.
+,[' [[ ,['  [n ,[' [[  [[[     ,[[     \[[,,[[     \[[,`]]nnn]]' [[[__[[\. ,[[ '[[,  [[[         [[[[[/'  
+$P__$$c$$    $$$P__$$c $$'     $$$,     $$$$$$,     $$$ $$$""    $$""""Y$$c$$$cc$$$c $$$        _$$$$,    
+`"""88"Y8,  ,8"`"""88"o88oo,.__"888,_ _,88P"888,_ _,88P 888o    _88o,,od8P 888   888,`88bo,__,o,"888"88o, 
+    MM  "YmmP      MM """"YUMMM  "YMMMMMP"   "YMMMMMP"  YMMMb   ""YUMMMP"  YMM   ""`   "YUMMMMMP"MMM "MMP"     
+</p>
 
 <h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3>
 

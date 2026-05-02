@@ -58,12 +58,12 @@ ___________________________________________________________________________/\/\_
 # philosophy.md
 
 > Internet should be free for all.
-> Beautiful code is fine, but **privacy is essential**.
+> Beautiful code is fine, but *privacy is essential*.
 > Right-to-repair = right-to-think freely.
 > Right-to-repair isn't a luxury; it's freedom.
 
-Debian patriot ; GrapheneOS advocate.
-Open source or nothing.
+*Debian patriot ; GrapheneOS advocate.*
+*Open source or nothing.*
 ```
 
 ```diff

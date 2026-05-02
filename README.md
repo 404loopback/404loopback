@@ -7,7 +7,7 @@
   <a href="https://www.mozilla.org/en-US/about/manifesto/"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
   <a href="https://thesatanictemple.com/pages/donate"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
   <a href="https://fmhy.net/"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/redhat1.gif"/></a>
   <a href="https://github.com/bitwarden"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
   <a href="https://github.com/grapheneos"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
   <a href="https://duckduckgo.com/?q=!ducky+youtube+synthwave+2+hours"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
@@ -22,6 +22,13 @@
   <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/getbsod.gif"/></a>
   <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
+  <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
+  <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/kiwix.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/knopnbk.gif"/></a>
+  <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/ldp-link.gif"/></a>
+  <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/msfrontpage2000.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/mymusic.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/navidrome.gif"/></a>
 </p>
 
 

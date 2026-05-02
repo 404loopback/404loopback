@@ -31,7 +31,7 @@
   <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.png"/></a>
   </p>
   
 ---

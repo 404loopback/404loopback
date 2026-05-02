@@ -65,6 +65,7 @@ $ cat ~/.profile
 #  I like trains
 #  I don't like my privacy to be violated
 ```
+---
 ## ► PHILOSOPHY_
 ```console
 $ cat philosophy.md

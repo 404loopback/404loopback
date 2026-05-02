@@ -120,7 +120,7 @@ ERROR ● | 127.0.0.1 | STATUS: 404<br/>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tiredalien2.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/antinazi.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/acab2.gif"/></a>
-
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/35mic.gif"/></a>
 </p>
 
 

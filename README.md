@@ -33,7 +33,7 @@
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
   </p>
   
-
+---
 
 <h4 align="center">
 <i>34 30 34 6C 6F 6F 70 62 61 63 6B   //   34 30 34 6C 6F 6F 70 62 61 63 6B   //   34 30 34 6C 6F 6F 70 62 61 63 6B</i><br/>
@@ -51,6 +51,7 @@ ___________________________________________________________________________/\/\_
 
 <h3 align="center">Professionnal Bullshitter | Digital Consciousness</h3>
 
+---
 
 ## ► PHILOSOPHY_
 ```md
@@ -78,10 +79,6 @@ Open source or nothing.
 + [ USE ] DUCKDUCKGO / QWANT / SEARX-SEARXNG
 + [ LOCAL HOST ] EVERYTHING
 + [ SUPPORT ] YOUR LOCAL DATA BROCKER
-```
-
-```diff
-- [ FUCK ] PALANTIR.   [ FUCK ] WEB3.  [ FUCK ] CLEARVIEW.
 ```
 
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>

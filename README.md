@@ -69,12 +69,12 @@ $ cat -f philsophy.md
 - AVOID GOOGLE.           - AVOID AMAZON.                      - AVOID NEW-GEN SOCIAL PLATFORMS.
 - AVOID MICROSOFT.        - AVOID NEW-GEN SOCIAL PLATFORMS.    - AVOID NEW-GEN SOCIAL PLATFORMS.
 ```
-```
+
 mood: `#0d1117`  
 panic: `#ff0000`  
 void: `#000000`  
 radioactive soup: `#39ff14`
-```
+
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
 ## ► STATUS REPORT_

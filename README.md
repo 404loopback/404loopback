@@ -3,7 +3,7 @@
   <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/kiwix.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/knopnbk.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tor.gif"/></a>
   <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/ldp-link.gif"/></a>
   <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/msfrontpage2000.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/mymusic.gif"/></a>
@@ -11,7 +11,6 @@
 </p>
 
 ![webcore](/content/webcore.png)
-
 <p align="justify">
   <a href="mailto:404@4048404.online"><img src="https://github.com/404loopback/404loopback/blob/main/content/adobe_getas2.gif"/></a>
   <a href="https://hub.docker.com/u/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
@@ -31,6 +30,7 @@
   <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.gif"/></a>
   </p>
   
 ---

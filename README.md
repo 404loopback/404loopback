@@ -92,10 +92,8 @@ FUCK WEB3.
 <h3 align="center">          OFFLINE ● | 127.0.0.1 | STATUS: 404</h3>
 
 
-<p align="center">
-
+<h3 align="center">
 ═══════════════════════════════════════════════════════════════<br/>
 ONLINE ● | 404loopback_v.ultimate | STATUS: VIGILANT<br/>
 ═══════════════════════════════════════════════════════════════
-
-</p>
+</h3>

@@ -53,30 +53,28 @@ ___________________________________________________________________________/\/\_
 
 
 ## ► PHILOSOPHY_
-``` diff
+```bash
+$ cat -f philsophy.md
 > Internet should be free for all. Stop online 
 > Beautiful code is fine but PRIVACY IS ESSENTIAL
 > Right-to-repair = Right-to-think freely. Right-to-repair isn't a luxury ; it's freedom.
 > Debian patriot ; GrapheneOS advocate
 > Open source or nothing
-
-- AVOID DISCORD.          AVOID FACEBOOK
-- AVOID GOOGLE.           AVOID AMAZON.
-- AVOID MICROSOFT.        AVOID NEW-GEN SOCIAL PLATFORMS.
-
-FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 ```
+
+
+
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
 ## ► STATUS REPORT_
 ```bash
 $ whoami
-# > 🎓  Currently executing obscure.projects() in background loops
-# > ⚙️  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
-# > ✍️  Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
-# > 📧  Contact: 404@4048404.online (will not read anything, ever)
-# > 🚂  I like trains
-# > 🔒  I don't like my privacy to be violated
+#  Currently executing obscure.projects() in background loops
+#  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
+#  Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
+#  Contact: 404@4048404.online (will not read anything, ever)
+#  I like trains
+#  I don't like my privacy to be violated
 ```
 
 ## ► LATEST TRANSMISSIONS_

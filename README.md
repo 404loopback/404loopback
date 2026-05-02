@@ -53,7 +53,7 @@ ___________________________________________________________________________/\/\_
 
 ---
 
-## ► PHILOSOPHY_
+## ► WHOAMI_
 ```md
 # philosophy.md
 
@@ -66,6 +66,27 @@ ___________________________________________________________________________/\/\_
 *Open source or nothing.*
 ```
 
+
+
+## ► PHILOSOPHY_
+```console
+$ cat philosophy.md
+```
+```md
+# philosophy.md
+
+> Internet should be free for all.
+> Beautiful code is fine, but *privacy is essential*.
+> Right-to-repair = right-to-think freely.
+> Right-to-repair isn't a luxury; it's freedom.
+
+*Debian patriot ; GrapheneOS advocate.*
+*Open source or nothing.*
+```
+
+```console
+$ git apply values.patch --check
+```
 ```diff
 @@ values.patch @@
 + [ USE ] MASTODON / MATRIX / STOAT
@@ -80,10 +101,6 @@ ___________________________________________________________________________/\/\_
 - [ AVOID ] AMAZON.
 - [ AVOID ] MICROSOFT.
 ```
-```diff
-
-```
-
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
 ## ► STATUS REPORT_

@@ -22,7 +22,7 @@
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/redhat1.gif"/></a>
   <a href="https://github.com/bitwarden"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
   <a href="https://github.com/grapheneos"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
-  <a href="https://duckduckgo.com/?q=!ducky+youtube+synthwave+2+hours"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=Vd-tURJ4ThM&list=PLOtNYlNIGer0jmWpFtTWqMkfP56iuZg1w&pp=iAQB8AUB"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
   <a href="https://repair.eu/"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
   <a href="https://www.win-rar.com/start.html?&L=10"><img src="https://github.com/404loopback/404loopback/blob/main/content/rar_whit_move.gif"/></a>

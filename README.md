@@ -48,7 +48,9 @@ ___________________________________________________________________________/\/\_
 </h4 align="center">
 
 <h3 align="center">▓▒░ Professionnal Bullshitter | Digital Consciousness Guru ░▒▓</h3>
+
 ---
+
 ```console
 $ whoami
 Inadvertance/404labs

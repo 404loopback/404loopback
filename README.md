@@ -31,15 +31,6 @@
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/navidrome.gif"/></a>
 </p>
 
-
-## ► PROJECTS
-<p align="justify">
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-</p>
-
 <h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3>
 
 <h3 align="center">Professionnal Bullshitter | Privacy-Focused</h3>
@@ -77,6 +68,14 @@ FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 >[04/2026] [Discord Surveillance (FR) - Comment Discord contribue à la normalisation silencieuse de la surveillance sociale](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
 <!-- BLOG-POST-LIST:END -->
 
+
+## ► PROJECTS
+<p align="justify">
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+</p>
 
 
 ## ► My Links

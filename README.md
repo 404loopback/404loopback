@@ -114,9 +114,11 @@ ERROR ● | 127.0.0.1 | STATUS: 404<br/>
 
 <p align="justify">
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/palestine.gif"/></a>
-<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/acab.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tiredalien2.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/freepalestine.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
 </p>
 
 

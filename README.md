@@ -35,7 +35,7 @@
 
 <h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3>
 
-<h3 align="center">Professionnal Bullshitter | Privacy-Focused </h3>
+<h3 align="center">Professionnal Bullshitter | Privacy-Focused</h3>
 
 
 ► PHILOSOPHY
@@ -87,8 +87,8 @@ FUCK WEB3.
   <a href="x"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
 </p>
 
-<div align="center">
-══════════════════════════════════════════════════════════\
-          OFFLINE ● | 127.0.0.1 | STATUS: 404\
-══════════════════════════════════════════════════════════\
-</div>
+
+<h3 align="center">══════════════════════════════════════════════════════════</h3>
+<h3 align="center">          OFFLINE ● | 127.0.0.1 | STATUS: 404</h3>
+<h3 align="center">══════════════════════════════════════════════════════════</h3>
+

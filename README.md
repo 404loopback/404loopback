@@ -110,3 +110,13 @@ FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 OFFLINE ● | 127.0.0.1 | STATUS: 404<br/>
 ═══════════════════════════════════════════════════════════════
 </h3>
+
+
+<details>
+<summary>do not open</summary>
+
+you opened it.
+
+[enter the void](https://en.wikipedia.org/wiki/Special:Random)
+
+</details>

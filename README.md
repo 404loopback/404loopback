@@ -46,15 +46,11 @@
 > Debian patriot ; GrapheneOS advocate
 > Open source or nothing
 
-AVOID DISCORD.
-AVOID GOOGLE.
-AVOID MICROSOFT.
-AVOID FACEBOOK
-AVOID AMAZON.
-AVOID NEW-GEN SOCIAL PLATFORMS.
-FUCK PALANTIR.
-FUCK CLEARVIEW.
-FUCK WEB3.
+AVOID DISCORD.          AVOID FACEBOOK
+AVOID GOOGLE.           AVOID AMAZON.
+AVOID MICROSOFT.        AVOID NEW-GEN SOCIAL PLATFORMS.
+
+FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 ```
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
@@ -88,12 +84,8 @@ FUCK WEB3.
 </p>
 
 
-<h5 align="center">══════════════════════════════════════════════════════════</h5>
-<h3 align="center">          OFFLINE ● | 127.0.0.1 | STATUS: 404</h3>
-
-
 <h3 align="center">
 ═══════════════════════════════════════════════════════════════<br/>
-ONLINE ● | 404loopback_v.ultimate | STATUS: VIGILANT<br/>
+OFFLINE ● | 127.0.0.1 | STATUS: 404<br/>
 ═══════════════════════════════════════════════════════════════
 </h3>

@@ -89,9 +89,9 @@ $ git apply values.patch --check
 - [ AVOID ] MICROSOFT.
 ```
 <p align="center">
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/clearview.png"/></a>
-  <a href="https://hub.docker.com/u/404"><img src=" https://github.com/404loopback/404loopback/blob/main/content/palntr.png"/></a>
-  <a href="https://www.youtube.com/c/404"><img src=" https://github.com/404loopback/404loopback/blob/main/content/web3.png"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/clearview.png"/></a>   
+  <a href="https://hub.docker.com/u/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/palntr.png"/></a>   
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3.png"/></a>   
   </p>
   
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>

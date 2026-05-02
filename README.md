@@ -70,19 +70,15 @@ ___________________________________________________________________________/\/\_
 
 ```diff
 @@ embargo.md @@
-- [ AVOID ] DISCORD.
-- [ AVOID ] FACEBOOK.
-- [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
-- [ AVOID ] GOOGLE.
-- [ AVOID ] AMAZON.
-- [ AVOID ] MICROSOFT.
+- [ AVOID ] DISCORD.  /  [ AVOID ] FACEBOOK.  /  [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
++ [ USE ] MASTODON  / [ USE ] MATRIX  / [ USE ] STOAT  / 
+
+- [ AVOID ] GOOGLE.  / [ AVOID ] AMAZON.  / [ AVOID ] MICROSOFT.
++ [ USE ] DUCKDUCKGO  /  [ HELP ] YOUR LOCAL DATA BROCKER
 ```
 
 ```diff
-@@ fuckem.md @@
-- [ FUCK ] PALANTIR.
-- [ FUCK ] CLEARVIEW.
-- [ FUCK ] WEB3.
+- [ FUCK ] PALANTIR.   [ FUCK ] WEB3.  [ FUCK ] CLEARVIEW.
 ```
 
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>

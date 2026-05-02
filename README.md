@@ -67,6 +67,12 @@ Open source or nothing.
 ```
 
 ```diff
+@@ values.patch @@
++ [ USE ] MASTODON / MATRIX / STOAT
++ [ USE ] DUCKDUCKGO / QWANT / SEARX-SEARXNG
++ [ LOCAL HOST ] EVERYTHING
++ [ SUPPORT ] YOUR LOCAL DATA BROCKER
+
 - [ AVOID ] DISCORD.
 - [ AVOID ] FACEBOOK.
 - [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
@@ -75,10 +81,7 @@ Open source or nothing.
 - [ AVOID ] MICROSOFT.
 ```
 ```diff
-+ [ USE ] MASTODON / MATRIX / STOAT
-+ [ USE ] DUCKDUCKGO / QWANT / SEARX-SEARXNG
-+ [ LOCAL HOST ] EVERYTHING
-+ [ SUPPORT ] YOUR LOCAL DATA BROCKER
+
 ```
 
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>

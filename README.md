@@ -58,7 +58,6 @@ ___________________________________________________________________________/\/\_
 
 + Internet should be free for all.
 + Beautiful code is fine, but privacy is essential.
-+ Right-to-repair = right-to-think freely.
 + Right-to-repair isn't a luxury; it's freedom.
 + Debian patriot ; GrapheneOS advocate.
 + Open source or nothing.
@@ -69,12 +68,26 @@ ___________________________________________________________________________/\/\_
 - Closed-source black boxes.
 ```
 
-```diff
-+ FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
+```console
+$ ./philosophy.exe --unsafe
+[ FUCK ] PALANTIR.
+[ FUCK ] CLEARVIEW.
+[ FUCK ] WEB3.
 
-- AVOID DISCORD.          - AVOID FACEBOOK                     - AVOID NEW-GEN SOCIAL PLATFORMS.
-- AVOID GOOGLE.           - AVOID AMAZON.                      - AVOID NEW-GEN SOCIAL PLATFORMS.
-- AVOID MICROSOFT.        - AVOID NEW-GEN SOCIAL PLATFORMS.    - AVOID NEW-GEN SOCIAL PLATFORMS.
+[ AVOID ] DISCORD.
+[ AVOID ] FACEBOOK.
+[ AVOID ] NEW-GEN SOCIAL PLATFORMS.
+[ AVOID ] GOOGLE.
+[ AVOID ] AMAZON.
+[ AVOID ] MICROSOFT.
+```
+
+
+```console
+$ ./README.exe --unsafe
+[ OK ] mounting links
+[ OK ] starting music daemon
+[FAIL] sanity check
 ```
 
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>

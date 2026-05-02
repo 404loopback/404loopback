@@ -13,7 +13,7 @@
 
 ![webcore](/content/webcore.png)
 <p align="justify">
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/eatrich.png"/></a>
   <a href="https://www.debian.org/distrib/"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/"><img src="https://github.com/404loopback/404loopback/blob/main/content/discord-no-way.gif" alt="discord privacy"/></a>
   <a href="https://www.mozilla.org/en-US/about/manifesto/"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
@@ -30,7 +30,7 @@
   <a href="https://secure.freetibet.org/donate-free-tibet"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
   <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
-  <a href="https://www.waterfox.com/download/"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
+  <a href="https://www.waterfox.com/download/"><img src="https://github.com/404loopback/404loopback/blob/main/content/waterfox.gif"/></a>
   <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.png"/></a>
   </p>
   

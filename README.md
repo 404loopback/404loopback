@@ -61,12 +61,19 @@ $ cat -f philsophy.md
 > Debian patriot ; GrapheneOS advocate
 > Open source or nothing
 ```
-```diff
-FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 
-- AVOID DISCORD.          AVOID FACEBOOK
-- AVOID GOOGLE.           AVOID AMAZON.
-- AVOID MICROSOFT.        AVOID NEW-GEN SOCIAL PLATFORMS.
+```diff
++ FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
+
+- AVOID DISCORD.          - AVOID FACEBOOK                     - AVOID NEW-GEN SOCIAL PLATFORMS.
+- AVOID GOOGLE.           - AVOID AMAZON.                      - AVOID NEW-GEN SOCIAL PLATFORMS.
+- AVOID MICROSOFT.        - AVOID NEW-GEN SOCIAL PLATFORMS.    - AVOID NEW-GEN SOCIAL PLATFORMS.
+```
+```
+mood: `#0d1117`  
+panic: `#ff0000`  
+void: `#000000`  
+radioactive soup: `#39ff14`
 ```
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 

@@ -32,14 +32,14 @@
 
 
 ► STATUS REPORT
-
+```
 > 🎓  Currently executing obscure.projects() in background loops
 > ⚙️   Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
 > ✍️   Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
 > 📧  Contact: 404@4048404.online (will not read anything, ever)
 > 🚂  Transport protocol: TRAINS_ONLY
 > 🔒  Privacy violation status: CRITICAL_ALERT | Manifestos deployed
-
+```
 
 ## Latest blog posts
 

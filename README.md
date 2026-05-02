@@ -4,26 +4,30 @@
   <a href="mailto:404@4048404.online"><img src="https://github.com/404loopback/404loopback/blob/main/content/adobe_getas2.gif"/></a>
   <a href="https://hub.docker.com/u/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="https://www.youtube.com/c/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/discord-no-way.gif" alt="discord privacy"/></a>
-  <a href="https://twitter.com/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
+  <a href="https://www.mozilla.org/en-US/about/manifesto/"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
+  <a href="https://thesatanictemple.com/pages/donate"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
+  <a href="https://fmhy.net/"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
+  <a href="https://github.com/bitwarden"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
+  <a href="https://github.com/grapheneos"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+  <a href="https://duckduckgo.com/?q=!ducky+youtube+synthwave+2+hours"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
+  <a href="https://repair.eu/"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/hatems.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/rar_whit_move.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/masto.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
+  <a href="https://secure.freetibet.org/donate-free-tibet"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
+  <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
+  <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getbsod.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
+  <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/getbsod.gif"/></a>
+  <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
 </p>
+
+
+► PROJECTS
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+
 
 <h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3><p
 

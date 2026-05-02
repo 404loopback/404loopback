@@ -11,7 +11,7 @@
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
-  <a href="x"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
   <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/hatems.gif"/></a>

@@ -25,7 +25,7 @@
 </p>
 
 
-► PROJECTS
+## ► PROJECTS
 <p align="justify">
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
@@ -38,7 +38,7 @@
 <h3 align="center">Professionnal Bullshitter | Privacy-Focused</h3>
 
 
-► PHILOSOPHY
+## ► PHILOSOPHY
 ```
 > Internet should be free for all. Stop online 
 > Beautiful code is fine but PRIVACY IS ESSENTIAL
@@ -56,9 +56,9 @@ FUCK PALANTIR.
 FUCK CLEARVIEW.
 FUCK WEB3.
 ```
-<h3> RECLAIM YOUR DATAS. </h3>
+<h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
-► STATUS REPORT
+## ► STATUS REPORT
 ```
 > 🎓  Currently executing obscure.projects() in background loops
 > ⚙️  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
@@ -68,7 +68,7 @@ FUCK WEB3.
 > 🔒  I don't like my privacy to be violated
 ```
 
-► LATEST TRANSMISSIONS
+## ► LATEST TRANSMISSIONS
 
 <!-- BLOG-POST-LIST:START -->
 >[04/2026] [Discord Surveillance (FR) - Comment Discord contribue à la normalisation silencieuse de la surveillance sociale](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
@@ -76,7 +76,7 @@ FUCK WEB3.
 
 
 
-## Links
+## ► My Links
 
 <p align="center">
   <a href="https://404loopback.github.io/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
@@ -88,7 +88,7 @@ FUCK WEB3.
 </p>
 
 
-<h3 align="center">══════════════════════════════════════════════════════════</h3>
-<h3 align="center">          OFFLINE ● | 127.0.0.1 | STATUS: 404</h3>
-<h3 align="center">══════════════════════════════════════════════════════════</h3>
+<h4 align="center">══════════════════════════════════════════════════════════</h4>
+<h4 align="center">          OFFLINE ● | 127.0.0.1 | STATUS: 404</h3>
+<h4 align="center">══════════════════════════════════════════════════════════</h4>
 

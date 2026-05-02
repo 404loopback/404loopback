@@ -93,16 +93,17 @@ $ git apply values.patch --check
 
 ## ► STATUS REPORT_
 ```bash
-$ whoami
-#  Currently executing obscure.projects() in background loops
-#  Dev/Ops ≠ passion | I'm not even sure I like IT to be fair
-#  Free time activity: nothing.exe | Status: NO_TIME_ALLOCATED
+$ cat ~/.profile
+
+#  obscure.projects --loop
+#  Dev/Ops ≠ passion 
+#  Free time activity: ENOENT
 #  Contact: 404@4048404.online (will not read anything, ever)
 #  I like trains
 #  I don't like my privacy to be violated
 ```
 
-## ► LATEST TRANSMISSIONS_
+## ► LATEST POSTS_
 
 <!-- BLOG-POST-LIST:START -->
 >[04/2026] [Discord Surveillance (FR) - Comment Discord contribue à la normalisation silencieuse de la surveillance sociale](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
@@ -114,8 +115,6 @@ $ whoami
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
 </p>
-
-
 
 ## ► LINKS_
 <p align="center">

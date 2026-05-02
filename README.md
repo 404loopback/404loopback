@@ -53,16 +53,16 @@ ___________________________________________________________________________/\/\_
 
 
 ## ► PHILOSOPHY_
-```
+``` diff
 > Internet should be free for all. Stop online 
 > Beautiful code is fine but PRIVACY IS ESSENTIAL
 > Right-to-repair = Right-to-think freely. Right-to-repair isn't a luxury ; it's freedom.
 > Debian patriot ; GrapheneOS advocate
 > Open source or nothing
 
-AVOID DISCORD.          AVOID FACEBOOK
-AVOID GOOGLE.           AVOID AMAZON.
-AVOID MICROSOFT.        AVOID NEW-GEN SOCIAL PLATFORMS.
+- AVOID DISCORD.          AVOID FACEBOOK
+- AVOID GOOGLE.           AVOID AMAZON.
+- AVOID MICROSOFT.        AVOID NEW-GEN SOCIAL PLATFORMS.
 
 FUCK PALANTIR.          FUCK CLEARVIEW.            FUCK WEB3.
 ```

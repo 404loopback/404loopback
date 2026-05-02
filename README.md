@@ -53,14 +53,20 @@ ___________________________________________________________________________/\/\_
 
 
 ## ► PHILOSOPHY_
-```bash
-printf "%s\n" \
-  "Internet should be free for all." \
-  "Beautiful code is fine, but PRIVACY IS ESSENTIAL." \
-  "Right-to-repair = right-to-think freely." \
-  "Right-to-repair isn't a luxury; it's freedom." \
-  "Debian patriot ; GrapheneOS advocate." \
-  "Open source or nothing."
+```diff
+@@ philosophy.md @@
+
++ Internet should be free for all.
++ Beautiful code is fine, but privacy is essential.
++ Right-to-repair = right-to-think freely.
++ Right-to-repair isn't a luxury; it's freedom.
++ Debian patriot ; GrapheneOS advocate.
++ Open source or nothing.
+
+- Walled gardens.
+- Planned obsolescence.
+- Surveillance by default.
+- Closed-source black boxes.
 ```
 
 ```diff
@@ -70,11 +76,6 @@ printf "%s\n" \
 - AVOID GOOGLE.           - AVOID AMAZON.                      - AVOID NEW-GEN SOCIAL PLATFORMS.
 - AVOID MICROSOFT.        - AVOID NEW-GEN SOCIAL PLATFORMS.    - AVOID NEW-GEN SOCIAL PLATFORMS.
 ```
-
-mood: `#0d1117`  
-panic: `#ff0000`  
-void: `#000000`  
-radioactive soup: `#39ff14`
 
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 

@@ -88,6 +88,12 @@ $ git apply values.patch --check
 - [ AVOID ] AMAZON.
 - [ AVOID ] MICROSOFT.
 ```
+<p align="center">
+  <a href="mailto:404@4048404.online"><img src="https://github.com/404loopback/404loopback/blob/main/content/clearview.gif"/></a>
+  <a href="https://hub.docker.com/u/404"><img src=" https://github.com/404loopback/404loopback/blob/main/content/palntr.gif"/></a>
+  <a href="https://www.youtube.com/c/404"><img src=" https://github.com/404loopback/404loopback/blob/main/content/web3.gif"/></a>
+  </p>
+  
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 
 ## ► STATUS REPORT_

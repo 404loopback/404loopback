@@ -31,7 +31,6 @@
   <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
   <a href="https://www.waterfox.com/download/"><img src="https://github.com/404loopback/404loopback/blob/main/content/waterfox.gif"/></a>
-  <a href="https://www.atlassian.com/software/jira"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.png"/></a>
   </p>
   
 ---
@@ -118,7 +117,10 @@ ERROR ● | 127.0.0.1 | STATUS: 404<br/>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/freepalestine.gif"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://github.com/404loopback/404loopback/blob/main/content/torture.png"/></a>
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/acab2.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/antinazi.gif"/></a>
 </p>
 
 

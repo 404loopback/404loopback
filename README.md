@@ -58,7 +58,6 @@ Inadvertance/404loopback
 ```
 ```bash
 $ cat ~/.profile
-
 #  obscure.projects --loop
 #  Dev/Ops ≠ passion 
 #  Free time activity: ENOENT

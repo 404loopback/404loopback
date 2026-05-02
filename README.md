@@ -116,16 +116,6 @@ $ cat ~/.profile
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/color.gif"/></a>
 </p>
 
-## ► LINKS_
-<p align="center">
-  <a href="https://404loopback.github.io/"><img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="darkwood"/></a>
-  <a href="mailto:404@4048404.online"><img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/></a>
-  <a href="https://hub.docker.com/u/404"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
-  <a href="https://www.youtube.com/c/404"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
-  <a href="https://twitter.com/404"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="x"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
-</p>
-
 
 <h3 align="center">
 ═══════════════════════════════════════════════════════════════<br/>

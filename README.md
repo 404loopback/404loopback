@@ -26,8 +26,12 @@
 
 
 ► PROJECTS
+<p align="justify">
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+<a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+</p>
 
 <h3 align="center">▓▒░ DIGITAL CONSCIOUSNESS ░▒▓</h3><p
 

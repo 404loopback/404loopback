@@ -7,25 +7,24 @@
   <a href="https://hub.docker.com/u/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="https://www.youtube.com/c/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/discord-no-way.gif" alt="discord privacy"/></a>
   <a href="https://twitter.com/404"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/hatems.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/rar_whit_move.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/masto.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/getbsod.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
-
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
+  <a href="x"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/hatems.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/rar_whit_move.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/masto.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getfirefox.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/getbsod.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
+  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
 </p>
 
 ##Hello World
@@ -54,6 +53,6 @@
   <a href="https://hub.docker.com/u/404"><img src="https://img.icons8.com/color/32/000000/docker.png" alt="docker"/></a>
   <a href="https://www.youtube.com/c/404"><img src="https://img.icons8.com/color/32/000000/youtube.png" alt="youtube"/></a>
   <a href="https://twitter.com/404"><img src="https://img.icons8.com/color/32/000000/twitter-squared.png" alt="twitter"/></a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
+  <a href="x"><img src="https://img.icons8.com/fluent/32/000000/tiktok.png"/></a>
 </p>
 -->

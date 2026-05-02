@@ -1,6 +1,6 @@
 ![webcore](/content/webcore.png)
   
-<h3 align="center">professionnal Bullshitter | Privacy-focused Manifestos </h3>
+<h3 align="center">Professionnal Bullshitter | Privacy-focused Manifestos </h3>
 
 <p align="justify">
   <a href="mailto:404@4048404.online"><img src="https://github.com/404loopback/404loopback/blob/main/content/adobe_getas2.gif"/></a>
@@ -12,9 +12,16 @@
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
- 
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src=" https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
+
 </p>
-## Hello World
+
+##Hello World
 
 🎓 &nbsp;I'm currently (and always) working random obscure projects.\
 🌱 &nbsp;I don't like Ops shit or even dev, I'm not even sure I like IT to be fair.\

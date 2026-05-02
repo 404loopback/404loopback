@@ -61,12 +61,11 @@ FUCK WEB3.
 ```
 
 ► LATEST TRANSMISSIONS
-```
+
 <!-- BLOG-POST-LIST:START -->
 > [04/2026] [Discord Surveillance (FR)](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
 <!-- BLOG-POST-LIST:END -->
-```
----
+
 
 
 ## Links

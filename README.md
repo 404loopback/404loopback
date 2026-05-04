@@ -104,6 +104,9 @@ $ git apply values.patch --check
 <!-- BLOG-POST-LIST:START -->
 >[04/2026] [Discord Surveillance (FR) - Comment Discord contribue à la normalisation silencieuse de la surveillance sociale](https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
 <p align="justify">
 <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/psbutton.gif"/></a>
 <a href="https://www.waterfox.com/download/"><img src="https://github.com/404loopback/404loopback/blob/main/content/hatems.gif"/></a>

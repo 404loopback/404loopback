@@ -46,8 +46,6 @@
 <i>34 30 34 6C 6F 6F 70 62 61 63 6B   //   34 30 34 6C 6F 6F 70 62 61 63 6B   //   34 30 34 6C 6F 6F 70 62 61 63 6B</i>
 </h4 align="center">
 
-<h3 align="center">▓▒░ Professionnal Bullshitter | Digital Consciousness Guru ░▒▓</h3>
-
 ---
 
 ```console

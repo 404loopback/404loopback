@@ -70,12 +70,11 @@ $ cat philosophy.md
 # philosophy.md
 
 > Internet should be free for all.
-> Beautiful code is fine, but *privacy is essential*.
-> Right-to-repair = right-to-think freely.
-> Right-to-repair isn't a luxury; it's freedom.
+> *privacy is essential*.
+> Right-to-repair = right-to-think.
+> Right-to-think = freedom.
 
-*Debian patriot ; GrapheneOS advocate.*
-*Open source or nothing.*
+*Open source.*
 ```
 
 ```console
@@ -83,17 +82,14 @@ $ git apply values.patch --check
 ```
 ```diff
 @@ values.patch @@
-+ [ USE ] MASTODON / MATRIX / STOAT
-+ [ USE ] DUCKDUCKGO / QWANT / SEARX-SEARXNG
-+ [ LOCAL HOST ] EVERYTHING
-+ [ SUPPORT ] YOUR LOCAL DATA BROCKER
++  MASTODON / MATRIX / STOAT
++  DUCKDUCKGO / QWANT / SEARX-SEARXNG
++  LOCAL HOST EVERYTHING
++  SUPPORT YOUR LOCAL DATA BROCKER
 
-- [ AVOID ] DISCORD.
-- [ AVOID ] FACEBOOK.
-- [ AVOID ] NEW-GEN SOCIAL PLATFORMS.
-- [ AVOID ] GOOGLE.
-- [ AVOID ] AMAZON.
-- [ AVOID ] MICROSOFT.
+-  FUCK BIG-TECH
+-  FUCK SOCIAL PLATFORMS.
+-  FUCK WEB3.
 ```
 <h4 align="center"> RECLAIM YOUR DATAS. </h4>
 

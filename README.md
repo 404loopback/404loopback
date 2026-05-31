@@ -1,32 +1,32 @@
 <p align="justify">
   <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/getbsod.gif"/></a>
   <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
+  <a href="https://www.marxists.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/crushit.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/kiwix.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/xampp.gif"/></a>
-  <a href="http://toastytech.com/files/bsod.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/ldp-link.gif"/></a>
+  <a href="https://www.apachefriends.orgindex.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/xampp.gif"/></a>
+  <a href="https://tldp.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/ldp-link.gif"/></a>
   <a href="https://www.debian.org/index.fr.html"><img src="https://github.com/404loopback/404loopback/blob/main/content/msfrontpage2000.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/mymusic.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/navidrome.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/tor.gif"/></a>
+  <a href="https://dn710008.ca.archive.org/0/items/psa-for-anti-piracy-you-wouldnt-steal-a-car/PSA%20for%20anti-piracy%20%28you%20wouldn%27t%20steal%20a%20car%29.mp4"><img src="https://github.com/404loopback/404loopback/blob/main/content/mymusic.gif"/></a>
+  <a href="https://www.navidrome.org/docs/installation/"><img src="https://github.com/404loopback/404loopback/blob/main/content/navidrome.gif"/></a>
+  <a href="https://www.torproject.org/download/"><img src="https://github.com/404loopback/404loopback/blob/main/content/tor.gif"/></a>
 </p>
 
 ![webcore](/content/webcore.png)
 <p align="justify">
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/eatrich.png"/></a>
+  <a href="https://networkcultures.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/eatrich.png"/></a>
   <a href="https://www.debian.org/distrib/"><img src="https://github.com/404loopback/404loopback/blob/main/content/debian-powered.gif"/></a>
   <a href="https://404loopback.github.io/PRIVACY_MANIFESTO/discord-surveillance/"><img src="https://github.com/404loopback/404loopback/blob/main/content/discord-no-way.gif" alt="discord privacy"/></a>
   <a href="https://www.mozilla.org/en-US/about/manifesto/"><img src="https://github.com/404loopback/404loopback/blob/main/content/google_stand.gif" alt="twitter"/></a>
   <a href="https://thesatanictemple.com/pages/donate"><img src="https://github.com/404loopback/404loopback/blob/main/content/go2hellnow.gif"/></a>
   <a href="https://fmhy.net/"><img src="https://github.com/404loopback/404loopback/blob/main/content/freedownloads.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/redhat1.gif"/></a>
+  <a href="https://docs.redhat.com/"><img src="https://github.com/404loopback/404loopback/blob/main/content/redhat1.gif"/></a>
   <a href="https://github.com/bitwarden"><img src="https://github.com/404loopback/404loopback/blob/main/content/bitwarden.gif"/></a>
   <a href="https://github.com/grapheneos"><img src="https://github.com/404loopback/404loopback/blob/main/content/grapheneos.gif"/></a>
   <a href="https://www.youtube.com/watch?v=Vd-tURJ4ThM&list=PLOtNYlNIGer0jmWpFtTWqMkfP56iuZg1w&pp=iAQB8AUB"><img src="https://github.com/404loopback/404loopback/blob/main/content/volta.gif"/></a>
   <a href="https://repair.eu/"><img src="https://github.com/404loopback/404loopback/blob/main/content/right-to-repair.png"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
+  <a href="https://web3isgoinggreat.com/"><img src="https://github.com/404loopback/404loopback/blob/main/content/web3no.gif"/></a>
   <a href="https://www.win-rar.com/start.html?&L=10"><img src="https://github.com/404loopback/404loopback/blob/main/content/rar_whit_move.gif"/></a>
-  <a href="x"><img src="https://github.com/404loopback/404loopback/blob/main/content/masto.gif"/></a>
+  <a href="https://joinmastodon.org/fr/apps"><img src="https://github.com/404loopback/404loopback/blob/main/content/masto.gif"/></a>
   <a href="https://secure.freetibet.org/donate-free-tibet"><img src="https://github.com/404loopback/404loopback/blob/main/content/button_tibet.gif"/></a>
   <a href="https://wikileaks.org/"><img src="https://github.com/404loopback/404loopback/blob/main/content/chill.gif"/></a>
   <a href="https://w.wiki/MVnS"><img src="https://github.com/404loopback/404loopback/blob/main/content/chrmevil.gif"/></a>
